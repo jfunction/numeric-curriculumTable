@@ -1,0 +1,1089 @@
+<?xml version="1.0"?>
+<!--Step2, xml file for parsing into javascript-->
+<node><playlist ptitle = "addition-subtraction">
+	<video>
+		<title>Basic Addition</title>
+		<time>462</time>
+		<exercise>Add. 1</exercise>
+	</video>
+	<video>
+		<title>Addition 2</title>
+		<time>746</time>
+		<exercise>Add. 2</exercise>
+	</video>
+	<video>
+		<title>Basic Subtraction</title>
+		<time>512</time>
+		<exercise>Sub. 1</exercise>
+	</video>
+	<video>
+		<title>Subtraction 2</title>
+		<time>752</time>
+		<exercise>Sub. 2</exercise>
+	</video>
+	<video>
+		<title>Subtracting Whole Numbers</title>
+		<time>174</time>
+	</video>
+	<video>
+		<title>Level 2 Addition</title>
+		<time>588</time>
+		<exercise>Add. 2</exercise>
+	</video>
+	<video>
+		<title>Addition 3</title>
+		<time>537</time>
+		<exercise>Add. 3</exercise>
+	</video>
+	<video>
+		<title>Subtraction 3:  Introduction to Borrowing or Regrouping</title>
+		<time>1106</time>
+		<exercise>Sub. 3</exercise>
+	</video>
+	<video>
+		<title>Why borrowing works</title>
+		<time>513</time>
+		<exercise>Sub. 3</exercise>
+	</video>
+	<video>
+		<title>Addition 4</title>
+		<time>529</time>
+		<exercise>Add. 3</exercise>
+		<exercise>Add. 4</exercise>
+	</video>
+	<video>
+		<title>Level 4 Subtraction</title>
+		<time>527</time>
+		<exercise>Sub. 4</exercise>
+	</video>
+	<video>
+		<title>Subtraction Word Problem</title>
+		<time>309</time>
+	</video>
+	<video>
+		<title>Alternate mental subtraction method</title>
+		<time>310</time>
+		<exercise>Sub. 3</exercise>
+	</video>
+	<video>
+		<title>Negative Numbers Introduction</title>
+		<time>576</time>
+		<exercise>+ Neg. #s</exercise>
+		<exercise>+- Neg. #s</exercise>
+		<exercise>-Num WP</exercise>
+	</video>
+	<video>
+		<title>Adding Negative Numbers</title>
+		<time>341</time>
+		<exercise>+ Neg. #s</exercise>
+		<exercise>+- Neg. #s</exercise>
+		<exercise>-Num WP</exercise>
+	</video>
+	<video>
+		<title>Adding integers with different signs</title>
+		<time>332</time>
+		<exercise>+ Neg. #s</exercise>
+		<exercise>+- Neg. #s</exercise>
+		<exercise>-Num WP</exercise>
+	</video>
+	<video>
+		<title>Adding/Subtracting negative numbers</title>
+		<time>555</time>
+		<exercise>+ Neg. #s</exercise>
+		<exercise>+- Neg. #s</exercise>
+		<exercise>-Num WP</exercise>
+	</video>
+	<video>
+		<title>Adding Whole Numbers and Applications 1</title>
+		<time>92</time>
+	</video>
+	<video>
+		<title>u09 l1 t2 we4 Adding Real Numbers Application</title>
+		<time>195</time>
+	</video>
+</playlist>
+<playlist ptitle = "multiplication-division">
+	<video>
+		<title>Basic Multiplication</title>
+		<time>800</time>
+		<exercise>Mult. 0.5</exercise>
+		<exercise>Mult. 1</exercise>
+		<exercise>Mult. 1.5</exercise>
+	</video>
+	<video>
+		<title>Multiplication 2: The Multiplication Tables</title>
+		<time>927</time>
+		<exercise>Mult. 0.5</exercise>
+		<exercise>Mult. 1</exercise>
+		<exercise>Mult. 1.5</exercise>
+	</video>
+	<video>
+		<title>Multiplication 3: 10,11,12 times tables</title>
+		<time>731</time>
+		<exercise>Mult. 1</exercise>
+		<exercise>Mult. 1.5</exercise>
+	</video>
+	<video>
+		<title>Division 1</title>
+		<time>1022</time>
+		<exercise>Div. 0.5</exercise>
+		<exercise>Div. 1</exercise>
+		<exercise>Div. 1.5</exercise>
+	</video>
+	<video>
+		<title>Division 2</title>
+		<time>699</time>
+		<exercise>Div. 0.5</exercise>
+		<exercise>Div. 1</exercise>
+		<exercise>Div. 1.5</exercise>
+		<exercise>Div. 2</exercise>
+	</video>
+	<video>
+		<title>Dividing Whole Numbers and Applications 1</title>
+		<time>148</time>
+	</video>
+	<video>
+		<title>Multiplication 4: 2-digit times 1-digit number</title>
+		<time>728</time>
+		<exercise>Mult. 2</exercise>
+	</video>
+	<video>
+		<title>Multiplication 5:  2-digit times a 2-digit number</title>
+		<time>675</time>
+		<exercise>Mult. 2</exercise>
+		<exercise>Mult. 3</exercise>
+	</video>
+	<video>
+		<title>Multiplying Whole Numbers and Applications 2</title>
+		<time>198</time>
+	</video>
+	<video>
+		<title>Lattice Multiplication</title>
+		<time>435</time>
+		<exercise>Mult. 3</exercise>
+	</video>
+	<video>
+		<title>Why Lattice Multiplication Works</title>
+		<time>501</time>
+		<exercise>Mult. 3</exercise>
+	</video>
+	<video>
+		<title>Multiplying Whole Numbers and Applications 4</title>
+		<time>111</time>
+		<exercise>Arith WP2</exercise>
+	</video>
+	<video>
+		<title>Multiplication 6: Multiple Digit Numbers</title>
+		<time>627</time>
+		<exercise>Mult. 3</exercise>
+		<exercise>Mult. 4</exercise>
+	</video>
+	<video>
+		<title>Multiplication 7: Old video giving more examples</title>
+		<time>377</time>
+		<exercise>Mult. 4</exercise>
+	</video>
+	<video>
+		<title>Multiplying Whole Numbers and Applications 6</title>
+		<time>159</time>
+		<exercise>Arith WP2</exercise>
+	</video>
+	<video>
+		<title>Division 3: More long division and remainder examples</title>
+		<time>607</time>
+		<exercise>Div. 3</exercise>
+	</video>
+	<video>
+		<title>Partial Quotient Division</title>
+		<time>507</time>
+	</video>
+	<video>
+		<title>Level 4 division</title>
+		<time>575</time>
+		<exercise>Div. 4</exercise>
+	</video>
+	<video>
+		<title>Partial Quotient Method of Division 2</title>
+		<time>476</time>
+	</video>
+	<video>
+		<title>Multiplying Whole Numbers and Applications 1</title>
+		<time>183</time>
+	</video>
+	<video>
+		<title>Multiplying and dividing negative numbers</title>
+		<time>508</time>
+		<exercise>%uFFFD%uFFFD Neg. #s</exercise>
+	</video>
+	<video>
+		<title>Place Value 1</title>
+		<time>145</time>
+		<exercise>Place value</exercise>
+	</video>
+	<video>
+		<title>Place Value 2</title>
+		<time>249</time>
+		<exercise>Place value</exercise>
+	</video>
+	<video>
+		<title>Place Value 3</title>
+		<time>320</time>
+		<exercise>Place value</exercise>
+	</video>
+	<video>
+		<title>Rounding Whole Numbers 1</title>
+		<time>263</time>
+		<exercise>Rd whole #</exercise>
+		<exercise>Rounding</exercise>
+	</video>
+	<video>
+		<title>Rounding Whole Numbers 2</title>
+		<time>148</time>
+		<exercise>Rd whole #</exercise>
+		<exercise>Rounding</exercise>
+	</video>
+	<video>
+		<title>Rounding Whole Numbers 3</title>
+		<time>64</time>
+		<exercise>Rd whole #</exercise>
+		<exercise>Rounding</exercise>
+	</video>
+</playlist>
+<playlist ptitle = "negative-numbers">
+	<video>
+		<title>Negative Numbers Introduction</title>
+		<time>576</time>
+		<exercise>+ Neg. #s</exercise>
+		<exercise>+- Neg. #s</exercise>
+		<exercise>-Num WP</exercise>
+	</video>
+	<video>
+		<title>Ordering Negative Numbers</title>
+		<time>167</time>
+		<exercise>Order Neg #</exercise>
+	</video>
+	<video>
+		<title>Adding Negative Numbers</title>
+		<time>341</time>
+		<exercise>+ Neg. #s</exercise>
+		<exercise>+- Neg. #s</exercise>
+		<exercise>-Num WP</exercise>
+	</video>
+	<video>
+		<title>Adding integers with different signs</title>
+		<time>332</time>
+		<exercise>+ Neg. #s</exercise>
+		<exercise>+- Neg. #s</exercise>
+		<exercise>-Num WP</exercise>
+	</video>
+	<video>
+		<title>Adding/Subtracting negative numbers</title>
+		<time>555</time>
+		<exercise>+ Neg. #s</exercise>
+		<exercise>+- Neg. #s</exercise>
+		<exercise>-Num WP</exercise>
+	</video>
+	<video>
+		<title>Multiplying and dividing negative numbers</title>
+		<time>508</time>
+		<exercise>%uFFFD%uFFFD Neg. #s</exercise>
+	</video>
+</playlist>
+<playlist ptitle = "number-properties">
+	<video>
+		<title>Commutative Law of Addition</title>
+		<time>100</time>
+		<exercise># Props 1</exercise>
+		<exercise># prop term</exercise>
+	</video>
+	<video>
+		<title>Commutative Law of Multiplication</title>
+		<time>108</time>
+		<exercise># Props 1</exercise>
+	</video>
+	<video>
+		<title>Associative Law of Addition</title>
+		<time>130</time>
+		<exercise># Props 1</exercise>
+		<exercise># prop term</exercise>
+	</video>
+	<video>
+		<title>Associative Law of Multiplication</title>
+		<time>135</time>
+		<exercise># Props 1</exercise>
+	</video>
+	<video>
+		<title>Commutative Property for Addition</title>
+		<time>203</time>
+	</video>
+	<video>
+		<title>The Distributive Property</title>
+		<time>296</time>
+		<exercise># prop term</exercise>
+		<exercise>Distrib Pro</exercise>
+		<exercise>Distrib var</exercise>
+	</video>
+	<video>
+		<title>The Distributive Property 2</title>
+		<time>131</time>
+	</video>
+	<video>
+		<title>Distributive Property Example 1</title>
+		<time>339</time>
+		<exercise>Distrib var</exercise>
+	</video>
+	<video>
+		<title>CA Algebra I: Number Properties and Absolute Value</title>
+		<time>722</time>
+	</video>
+	<video>
+		<title>Identity Property of 1</title>
+		<time>84</time>
+		<exercise># Props 2</exercise>
+	</video>
+	<video>
+		<title>Identity property of 1 (second example)</title>
+		<time>115</time>
+		<exercise># Props 2</exercise>
+	</video>
+	<video>
+		<title>Identity property of 0</title>
+		<time>286</time>
+		<exercise># Props 2</exercise>
+	</video>
+	<video>
+		<title>Inverse Property of Addition</title>
+		<time>179</time>
+		<exercise># Props 2</exercise>
+	</video>
+	<video>
+		<title>Inverse Property of Multiplication</title>
+		<time>197</time>
+		<exercise># Props 2</exercise>
+	</video>
+</playlist>
+<playlist ptitle = "order-of-operations">
+	<video>
+		<title>Introduction to Order of Operations</title>
+		<time>580</time>
+		<exercise>Order Ops.</exercise>
+	</video>
+	<video>
+		<title>More Complicated Order of Operations Example</title>
+		<time>320</time>
+		<exercise>Order Ops.</exercise>
+	</video>
+	<video>
+		<title>Order of Operations</title>
+		<time>267</time>
+	</video>
+	<video>
+		<title>Order of Operations 1</title>
+		<time>276</time>
+	</video>
+</playlist>
+<playlist ptitle = "factors-multiples">
+	<video>
+		<title>Prime Numbers</title>
+		<time>493</time>
+		<exercise>Prime #s</exercise>
+		<exercise>Prime Fac.</exercise>
+	</video>
+	<video>
+		<title>Recognizing Prime Numbers</title>
+		<time>280</time>
+		<exercise>Composite #</exercise>
+	</video>
+	<video>
+		<title>Recognizing Divisibility</title>
+		<time>386</time>
+		<exercise>Divisib 0.5</exercise>
+		<exercise>Divisibil.</exercise>
+	</video>
+	<video>
+		<title>Common Divisibility Examples</title>
+		<time>475</time>
+		<exercise>Divisib 0.5</exercise>
+		<exercise>Divisibil.</exercise>
+	</video>
+	<video>
+		<title>Finding Factors of a Number</title>
+		<time>593</time>
+	</video>
+	<video>
+		<title>Prime Factorization</title>
+		<time>249</time>
+		<exercise>Prime Fac.</exercise>
+	</video>
+	<video>
+		<title>Least Common Multiple</title>
+		<time>241</time>
+		<exercise>LCM</exercise>
+		<exercise>Divisib 0.5</exercise>
+		<exercise>LCM GCD WP</exercise>
+	</video>
+	<video>
+		<title>Least Common Multiple (LCM)</title>
+		<time>324</time>
+	</video>
+	<video>
+		<title>Greatest Common Divisor</title>
+		<time>378</time>
+		<exercise>Divisib 0.5</exercise>
+		<exercise>Divisibil.</exercise>
+		<exercise>GCD</exercise>
+		<exercise>LCM GCD WP</exercise>
+	</video>
+	<video>
+		<title>Algebraic Expression Least Common Multiple</title>
+		<time>280</time>
+	</video>
+</playlist>
+<playlist ptitle = "fractions">
+	<video>
+		<title>Numerator and Denominator of a Fraction</title>
+		<time>151</time>
+		<exercise>Rec frac0.5</exercise>
+		<exercise>Recog Fract</exercise>
+	</video>
+	<video>
+		<title>Identifying Fraction Parts</title>
+		<time>167</time>
+		<exercise>Frac WP 1</exercise>
+		<exercise>Rec frac0.5</exercise>
+		<exercise>Recog Fract</exercise>
+	</video>
+	<video>
+		<title>Equivalent fractions</title>
+		<time>349</time>
+	</video>
+	<video>
+		<title>Equivalent Fractions Example</title>
+		<time>290</time>
+		<exercise>Simp Fract</exercise>
+		<exercise>Equiv Frac.</exercise>
+		<exercise>Equi Fract2</exercise>
+	</video>
+	<video>
+		<title>Comparing Fractions</title>
+		<time>150</time>
+	</video>
+	<video>
+		<title>Fractions in lowest terms</title>
+		<time>342</time>
+	</video>
+	<video>
+		<title>Comparing Fractions 2</title>
+		<time>428</time>
+		<exercise>Cmp Fract 1</exercise>
+		<exercise>Cmp Fract 2</exercise>
+	</video>
+	<video>
+		<title>Ordering Fractions</title>
+		<time>468</time>
+		<exercise>Ordering fr</exercise>
+	</video>
+	<video>
+		<title>Proper and Improper Fractions</title>
+		<time>101</time>
+	</video>
+	<video>
+		<title>Mixed numbers and improper fractions</title>
+		<time>553</time>
+		<exercise>Ordering #s</exercise>
+	</video>
+	<video>
+		<title>Converting Mixed Numbers to Improper Fractions</title>
+		<time>266</time>
+		<exercise>Mxd impro f</exercise>
+		<exercise>Comp imp fr</exercise>
+		<exercise>Ordr imp fr</exercise>
+	</video>
+	<video>
+		<title>Changing a Mixed Number to an Improper Fraction</title>
+		<time>403</time>
+	</video>
+	<video>
+		<title>Changing an Improper Fraction to a Mixed Number</title>
+		<time>242</time>
+		<exercise>Mxd impro f</exercise>
+		<exercise>Comp imp fr</exercise>
+		<exercise>Ordr imp fr</exercise>
+	</video>
+	<video>
+		<title>Adding Fractions with Like Denominators</title>
+		<time>198</time>
+		<exercise>+CommDenom</exercise>
+		<exercise>+ Fract</exercise>
+		<exercise>+- Fract.</exercise>
+		<exercise>-CommDenom</exercise>
+	</video>
+	<video>
+		<title>Subtracting  Fractions</title>
+		<time>146</time>
+		<exercise>+- Fract.</exercise>
+		<exercise>Sub Fract</exercise>
+	</video>
+	<video>
+		<title>Finding Common Denominators</title>
+		<time>282</time>
+	</video>
+	<video>
+		<title>Adding Fractions with Unlike Denominators</title>
+		<time>246</time>
+		<exercise>+ Fract</exercise>
+		<exercise>+- Fract.</exercise>
+	</video>
+	<video>
+		<title>Adding and subtracting fractions</title>
+		<time>588</time>
+		<exercise>+- Fract.</exercise>
+		<exercise>Sub Fract</exercise>
+	</video>
+	<video>
+		<title>Adding Mixed Numbers</title>
+		<time>126</time>
+		<exercise>+- Mix #0.5</exercise>
+		<exercise>+- Mix #1</exercise>
+	</video>
+	<video>
+		<title>Adding Mixed Numbers with Unlike Denominators</title>
+		<time>316</time>
+		<exercise>+- Mix #1</exercise>
+	</video>
+	<video>
+		<title>Subtracting Mixed Numbers</title>
+		<time>239</time>
+		<exercise>+- Mix #0.5</exercise>
+		<exercise>+- Mix #1</exercise>
+	</video>
+	<video>
+		<title>Subtracting Mixed Numbers 2</title>
+		<time>294</time>
+		<exercise>+- Mix #1</exercise>
+	</video>
+	<video>
+		<title>Adding Mixed Numbers Word Problem</title>
+		<time>202</time>
+	</video>
+	<video>
+		<title>Subtracting Mixed Numbers Word Problem</title>
+		<time>281</time>
+	</video>
+	<video>
+		<title>Adding fractions with different signs</title>
+		<time>382</time>
+		<exercise>+- Fract.</exercise>
+	</video>
+	<video>
+		<title>Multiplying Fractions</title>
+		<time>146</time>
+		<exercise>M Frac. 0.5</exercise>
+		<exercise>Mult. Frac.</exercise>
+	</video>
+	<video>
+		<title>Multiplying  Mixed Numbers</title>
+		<time>261</time>
+	</video>
+	<video>
+		<title>Multiplying Fractions and Mixed Numbers</title>
+		<time>243</time>
+	</video>
+	<video>
+		<title>Multiplying Fractions Word Problem</title>
+		<time>219</time>
+	</video>
+	<video>
+		<title>Dividing fractions</title>
+		<time>538</time>
+	</video>
+	<video>
+		<title>Dividing Fractions Example</title>
+		<time>216</time>
+	</video>
+	<video>
+		<title>Dividing Fractions Word Problem</title>
+		<time>128</time>
+		<exercise>Div Frac WP</exercise>
+	</video>
+	<video>
+		<title>Reciprocal of a Mixed Number</title>
+		<time>101</time>
+	</video>
+	<video>
+		<title>Dividing Mixed Numbers</title>
+		<time>161</time>
+	</video>
+	<video>
+		<title>Dividing Mixed Numbers and Fractions</title>
+		<time>202</time>
+	</video>
+	<video>
+		<title>Converting Fractions to Decimals Example</title>
+		<time>137</time>
+		<exercise>Frac to dec</exercise>
+	</video>
+	<video>
+		<title>Converting fractions to decimals</title>
+		<time>562</time>
+		<exercise>Ordering #s</exercise>
+		<exercise>Frac to dec</exercise>
+	</video>
+	<video>
+		<title>Decimals and Fractions</title>
+		<time>162</time>
+		<exercise>Dec to Fra1</exercise>
+		<exercise>Dec to Fra2</exercise>
+		<exercise>Frac to dec</exercise>
+	</video>
+	<video>
+		<title>Coverting Repeating Decimals to Fractions 1</title>
+		<time>243</time>
+		<exercise>Rep d to f1</exercise>
+		<exercise>Rep d to f2</exercise>
+	</video>
+	<video>
+		<title>Coverting Repeating Decimals to Fractions 2</title>
+		<time>546</time>
+		<exercise>Rep d to f1</exercise>
+		<exercise>Rep d to f2</exercise>
+	</video>
+	<video>
+		<title>Representing a number as a decimal, percent, and fraction 2</title>
+		<time>325</time>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Representing a number as a decimal, percent, and fraction</title>
+		<time>212</time>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Points on a number line</title>
+		<time>118</time>
+		<exercise># line 3</exercise>
+		<exercise># line</exercise>
+		<exercise># line 2</exercise>
+	</video>
+	<video>
+		<title>Ordering numeric expressions</title>
+		<time>562</time>
+		<exercise>Ordering #s</exercise>
+	</video>
+</playlist>
+<playlist ptitle = "decimals">
+	<video>
+		<title>Subtracting decimals (old)</title>
+		<time>512</time>
+		<exercise>Sub. Dec.</exercise>
+	</video>
+	<video>
+		<title>Decimal Place Value</title>
+		<time>240</time>
+	</video>
+	<video>
+		<title>Decimal Place Value 2</title>
+		<time>211</time>
+	</video>
+	<video>
+		<title>Decimals on a Number Line</title>
+		<time>99</time>
+		<exercise>Dec no lin1</exercise>
+		<exercise>Dec no lin2</exercise>
+	</video>
+	<video>
+		<title>Rounding Decimals</title>
+		<time>86</time>
+		<exercise>Rounding</exercise>
+	</video>
+	<video>
+		<title>Estimation with Decimals</title>
+		<time>181</time>
+		<exercise>Estim w dec</exercise>
+	</video>
+	<video>
+		<title>Comparing Decimals</title>
+		<time>89</time>
+	</video>
+	<video>
+		<title>Adding Decimals</title>
+		<time>165</time>
+		<exercise>Add dec 0.5</exercise>
+		<exercise>Add. Dec.</exercise>
+		<exercise>+/- dec WP</exercise>
+	</video>
+	<video>
+		<title>Subtracting Decimals</title>
+		<time>128</time>
+		<exercise>Sub dec 0.5</exercise>
+		<exercise>Sub. Dec.</exercise>
+	</video>
+	<video>
+		<title>Subtracting Decimals Word Problem</title>
+		<time>139</time>
+		<exercise>Sub. Dec.</exercise>
+		<exercise>+/- dec WP</exercise>
+	</video>
+	<video>
+		<title>Multiplying a Decimal by a Power of 10</title>
+		<time>227</time>
+		<exercise>Und mov dec</exercise>
+	</video>
+	<video>
+		<title>Mulitplication 8: Multiplying decimals (Old video)</title>
+		<time>584</time>
+		<exercise>Mult. Dec.</exercise>
+	</video>
+	<video>
+		<title>Multiplying Decimals</title>
+		<time>172</time>
+		<exercise>Mult. Dec.</exercise>
+	</video>
+	<video>
+		<title>Dividing a Decimal by a Power of 10</title>
+		<time>198</time>
+		<exercise>Und mov dec</exercise>
+	</video>
+	<video>
+		<title>Dividing Decimals 2.1</title>
+		<time>111</time>
+	</video>
+	<video>
+		<title>Dividing decimal</title>
+		<time>567</time>
+		<exercise>Div dec 1</exercise>
+		<exercise>Div dec 2</exercise>
+		<exercise>Div. Dec.</exercise>
+	</video>
+	<video>
+		<title>Dividing Decimals</title>
+		<time>332</time>
+		<exercise>Div dec 1</exercise>
+		<exercise>Div dec 2</exercise>
+		<exercise>Div. Dec.</exercise>
+	</video>
+	<video>
+		<title>Mulitplyling Decimals 3</title>
+		<time>152</time>
+		<exercise>Mult. Dec.</exercise>
+	</video>
+	<video>
+		<title>Decimals and Fractions</title>
+		<time>162</time>
+		<exercise>Dec to Fra1</exercise>
+		<exercise>Dec to Fra2</exercise>
+		<exercise>Frac to dec</exercise>
+	</video>
+	<video>
+		<title>Converting Fractions to Decimals Example</title>
+		<time>137</time>
+		<exercise>Frac to dec</exercise>
+	</video>
+	<video>
+		<title>Converting fractions to decimals</title>
+		<time>562</time>
+		<exercise>Ordering #s</exercise>
+		<exercise>Frac to dec</exercise>
+	</video>
+	<video>
+		<title>Coverting Repeating Decimals to Fractions 1</title>
+		<time>243</time>
+		<exercise>Rep d to f1</exercise>
+		<exercise>Rep d to f2</exercise>
+	</video>
+	<video>
+		<title>Coverting Repeating Decimals to Fractions 2</title>
+		<time>546</time>
+		<exercise>Rep d to f1</exercise>
+		<exercise>Rep d to f2</exercise>
+	</video>
+	<video>
+		<title>Percent and decimals</title>
+		<time>626</time>
+		<exercise>Ordering #s</exercise>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Representing a number as a decimal, percent, and fraction 2</title>
+		<time>325</time>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Representing a number as a decimal, percent, and fraction</title>
+		<time>212</time>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Points on a number line</title>
+		<time>118</time>
+		<exercise># line 3</exercise>
+		<exercise># line</exercise>
+		<exercise># line 2</exercise>
+	</video>
+	<video>
+		<title>Ordering numeric expressions</title>
+		<time>562</time>
+		<exercise>Ordering #s</exercise>
+	</video>
+</playlist>
+<playlist ptitle = "percents">
+	<video>
+		<title>Describing the Meaning of Percent</title>
+		<time>181</time>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Describing the Meaning of Percent 2</title>
+		<time>142</time>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Identifying Percent Amount and Base</title>
+		<time>152</time>
+	</video>
+	<video>
+		<title>Representing a number as a decimal, percent, and fraction</title>
+		<time>212</time>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Solving Percent Problems</title>
+		<time>377</time>
+	</video>
+	<video>
+		<title>Solving Percent Problems 2</title>
+		<time>277</time>
+	</video>
+	<video>
+		<title>Solving Percent Problems 3</title>
+		<time>326</time>
+	</video>
+	<video>
+		<title>Growing by a percentage</title>
+		<time>582</time>
+		<exercise>% Word 1</exercise>
+	</video>
+	<video>
+		<title>Representing a number as a decimal, percent, and fraction 2</title>
+		<time>325</time>
+		<exercise>Dec to %</exercise>
+		<exercise>% to dec</exercise>
+	</video>
+	<video>
+		<title>Ordering numeric expressions</title>
+		<time>562</time>
+		<exercise>Ordering #s</exercise>
+	</video>
+</playlist>
+<playlist ptitle = "ratios-proportions">
+	<video>
+		<title>Introduction to Ratios (new HD version)</title>
+		<time>853</time>
+		<exercise>Ratios as F</exercise>
+	</video>
+	<video>
+		<title>Understanding Proportions</title>
+		<time>85</time>
+	</video>
+	<video>
+		<title>Ratios as Fractions in Simplest Form</title>
+		<time>79</time>
+	</video>
+	<video>
+		<title>Simplifying Rates and Ratios</title>
+		<time>148</time>
+	</video>
+	<video>
+		<title>Find an Unknown in a Proportion</title>
+		<time>440</time>
+	</video>
+	<video>
+		<title>Ratio and Proportion</title>
+		<time>625</time>
+	</video>
+	<video>
+		<title>Find an Unknown in a Proportion 2</title>
+		<time>348</time>
+		<exercise>Ratio WP</exercise>
+	</video>
+	<video>
+		<title>Another Take on the Rate Problem</title>
+		<time>215</time>
+	</video>
+	<video>
+		<title>Finding Unit Rates</title>
+		<time>151</time>
+	</video>
+	<video>
+		<title>Finding Unit Prices</title>
+		<time>121</time>
+	</video>
+	<video>
+		<title>Writing Proportions</title>
+		<time>351</time>
+	</video>
+	<video>
+		<title>Ratio problem with basic algebra (new HD)</title>
+		<time>312</time>
+		<exercise>Ratio WP</exercise>
+	</video>
+	<video>
+		<title>More advanced ratio problem--with Algebra (HD version)</title>
+		<time>598</time>
+	</video>
+	<video>
+		<title>Alternate Solution to Ratio Problem (HD Version)</title>
+		<time>422</time>
+	</video>
+	<video>
+		<title>Advanced ratio problems</title>
+		<time>597</time>
+	</video>
+	<video>
+		<title>Unit conversion</title>
+		<time>556</time>
+		<exercise>Units</exercise>
+	</video>
+	<video>
+		<title>Conversion between metric units</title>
+		<time>316</time>
+	</video>
+	<video>
+		<title>Converting within the metric system</title>
+		<time>282</time>
+	</video>
+	<video>
+		<title>Converting pounds to ounces</title>
+		<time>94</time>
+	</video>
+	<video>
+		<title>Converting Gallons to quarts pints and cups</title>
+		<time>317</time>
+	</video>
+	<video>
+		<title>Converting Farenheit to Celsius</title>
+		<time>178</time>
+	</video>
+	<video>
+		<title>Comparing Celsius and Farenheit temperature scales</title>
+		<time>170</time>
+	</video>
+	<video>
+		<title>Applying the Metric System</title>
+		<time>343</time>
+	</video>
+	<video>
+		<title>U.S. Customary and Metric units</title>
+		<time>310</time>
+	</video>
+	<video>
+		<title>Converting Yards into Inches</title>
+		<time>349</time>
+	</video>
+	<video>
+		<title>Unit Conversion with Fractions</title>
+		<time>348</time>
+	</video>
+	<video>
+		<title>Performing arithmetic calculations on units of volume</title>
+		<time>323</time>
+	</video>
+	<video>
+		<title>Application problems involving units of weight</title>
+		<time>428</time>
+	</video>
+	<video>
+		<title>Solving application problems involving units of volume</title>
+		<time>209</time>
+	</video>
+	<video>
+		<title>Unit Conversion Example: Drug Dosage</title>
+		<time>644</time>
+		<exercise>Units</exercise>
+	</video>
+	<video>
+		<title>Perimeter and Unit Conversion</title>
+		<time>373</time>
+	</video>
+	<video>
+		<title>Rational Equations</title>
+		<time>256</time>
+	</video>
+	<video>
+		<title>Solving Rational Equations 1</title>
+		<time>252</time>
+	</video>
+	<video>
+		<title>Solving Rational Equations 2</title>
+		<time>248</time>
+	</video>
+	<video>
+		<title>Solving Rational Equations 3</title>
+		<time>272</time>
+	</video>
+	<video>
+		<title>Applying Rational Equations 1</title>
+		<time>326</time>
+	</video>
+	<video>
+		<title>Applying Rational Equations 2</title>
+		<time>360</time>
+	</video>
+	<video>
+		<title>Applying Rational Equations 3</title>
+		<time>479</time>
+	</video>
+	<video>
+		<title>Extraneous Solutions to Rational Equations</title>
+		<time>183</time>
+	</video>
+	<video>
+		<title>Rational Inequalities 2</title>
+		<time>795</time>
+	</video>
+</playlist>
+<playlist ptitle = "basic-exponents">
+	<video>
+		<title>Understanding Exponents</title>
+		<time>115</time>
+	</video>
+	<video>
+		<title>Understanding Exponents 2</title>
+		<time>75</time>
+	</video>
+	<video>
+		<title>Level 1 Exponents</title>
+		<time>585</time>
+		<exercise>Exponents 1</exercise>
+	</video>
+	<video>
+		<title>Level 2 Exponents</title>
+		<time>385</time>
+		<exercise>Exponents 2</exercise>
+	</video>
+	<video>
+		<title>Level 3 exponents</title>
+		<time>551</time>
+		<exercise>Exponents 3</exercise>
+		<exercise>Exponents 4</exercise>
+	</video>
+	<video>
+		<title>Exponent Rules Part 1</title>
+		<time>583</time>
+		<exercise>Exp. Rules</exercise>
+	</video>
+	<video>
+		<title>Exponent Rules Part 2</title>
+		<time>463</time>
+		<exercise>Exp. Rules</exercise>
+	</video>
+</playlist>
+</node>

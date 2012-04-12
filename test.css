@@ -1,0 +1,22 @@
+input[type=checkbox] {width:100px; height:100px;}/* not working for now...  */
+
+tr:nth-child(odd)    { background-color:#eee; }
+tr:nth-child(even)    { background-color:#fff; }
+
+td
+{
+text-align:center;
+padding:15px;
+border: 2px solid lightgray;
+}
+
+th
+{
+background-color:lightblue;
+color:black;
+}
+
+table, th
+{
+border: 2px solid black;
+}

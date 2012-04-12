@@ -1,0 +1,18 @@
+###################################################################
+#The prototype works in about 2-3 steps.			###
+#								###
+#First, and you can skip this, run step1.py to generate 	###
+#list.xml							###
+#	step1 is versatile and can easily be modified to 	###
+#	download playlists written in a data file		###
+#	(say, via server update once a week)			###
+#	or perhaps you want to fetch/build playlist lists on	###
+#	the fly using the Khan API... etc...			 ###
+#								  ###
+#Second, upload index.php, process.php, list.xml and maketable.js
+#	to your website (must support php, usually not a pain though)
+#
+#Third, open index php, and give it a whirl... :)
+#
+#Obviously it's just an initial prototype, could be made prettier... #The coding could do with another look too...
+#######################################################################
